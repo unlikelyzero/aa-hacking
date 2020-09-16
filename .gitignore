@@ -9,3 +9,5 @@ srv/landing-page-frontend/
 srv/rbac/
 srv/tower-analytics-frontend/
 
+node_modules/
+aa

@@ -1,0 +1,25 @@
+{
+  "name": "aa-hacking",
+  "version": "0.0.1",
+  "description": "AA Hacking",
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jctanner/aa-hacking.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "James Tanner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jctanner/aa-hacking/issues"
+  },
+  "homepage": "https://github.com/jctanner/aa-hacking#readme"
+}
